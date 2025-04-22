@@ -14,7 +14,9 @@
   <a href="https://www.linkedin.com/in/marielly-de-ara%C3%BAjo-silva-2909a9299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D84040?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 <br>
+
 ---
+
 <br>
 <h3 align="center">☆ Tecnologias que utilizo e estudo:</h3>
 
@@ -29,7 +31,9 @@
   <img src="https://img.shields.io/badge/Git-F16767?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <br>
+
 ---
+
 <br>
 <h3 align="center">☆ Minhas estatísticas:</h3>
 
@@ -38,5 +42,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariellyaraujo&layout=compact&theme=tokyonight&title_color=D76C82&text_color=ffffff&bg_color=0d1117"/>
 </p>
 <br>
+
 ---
+
 <br>

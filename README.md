@@ -2,8 +2,6 @@
 
 <p align="center">
   Seja bem-vindo(a) ao meu GitHub!  
-  <br>
-  Desenvolvedora em formação e cheia de vontade de aprender! 🌸
 </p>
 
 <br>

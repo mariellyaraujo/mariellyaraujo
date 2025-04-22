@@ -1,22 +1,16 @@
-## Olá! Sou Marielly de Araújo 
+<h1 align="center">Olá! Sou a Marielly de Araújo Silva 💻✨</h1>
 
-<!--
-**mariellyaraujo/mariellyaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Seja+bem-vinde+ao+meu+GitHub!;Desenvolvedora+em+formação+e+cheia+de+vontade+de+aprender!+🌸" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+📫 **Entre em contato comigo:**  
 <a href = "mailto:marielly.araujosilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marielly-de-ara%C3%BAjo-silva-2909a9299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/marielly-de-ara%C3%BAjo-silva-2909a9299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
 
 🧠 **Tecnologias que utilizo e estudo:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,4 +29,5 @@ Here are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariellyaraujo&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariellyaraujo&layout=compact&theme=tokyonight&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117"/>
 </div>
-  
+
+---

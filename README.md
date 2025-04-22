@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou a Marielly de Araújo Silva 💻✨</h1>
+<h1 align="center">✭ Olá! Sou a Marielly de Araújo Silva ✭</h1>
 
 <p align="center">
   Seja bem-vindo(a) ao meu GitHub!  
@@ -8,6 +8,7 @@
 
 <br>
 
+<h3 align="center">☆ Entre em contato comigo!:</h3>
 <p align="center">
   <a href = "mailto:marielly.araujosilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A31D1D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marielly-de-ara%C3%BAjo-silva-2909a9299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D84040?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -15,7 +16,7 @@
 
 ---
 
-<h3 align="center">🧠 Tecnologias que utilizo e estudo:</h3>
+<h3 align="center">☆ Tecnologias que utilizo e estudo:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-B03052?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -30,7 +31,7 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center">☆ Minhas estatísticas:</h3>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariellyaraujo&show_icons=true&theme=tokyonight&title_color=D76C82&icon_color=D76C82&text_color=ffffff&bg_color=0d1117" />
